@@ -1,0 +1,19 @@
+C:\Users\Administrator\Desktop\Painting at ZJU\Painting at ZJU\obj\Release\net5.0-windows\Painting at ZJU.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Painting at ZJU\Painting at ZJU\obj\Release\net5.0-windows\Painting_at_ZJU.BlurForm.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\Painting at ZJU\obj\Release\net5.0-windows\Painting_at_ZJU.BrightnessForm.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\Painting at ZJU\obj\Release\net5.0-windows\Painting_at_ZJU.ContrastForm.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\Painting at ZJU\obj\Release\net5.0-windows\Painting_at_ZJU.DeveloperForm.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\Painting at ZJU\obj\Release\net5.0-windows\Painting_at_ZJU.Histogram.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\Painting at ZJU\obj\Release\net5.0-windows\Painting_at_ZJU.ImageDocument.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\Painting at ZJU\obj\Release\net5.0-windows\Painting_at_ZJU.MainForm.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\Painting at ZJU\obj\Release\net5.0-windows\Painting_at_ZJU.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\Painting at ZJU\obj\Release\net5.0-windows\Painting_at_ZJU.ResizeForm.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\Painting at ZJU\obj\Release\net5.0-windows\Painting_at_ZJU.SharpenForm.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\Painting at ZJU\obj\Release\net5.0-windows\Painting_at_ZJU.StatisticsForm.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\Painting at ZJU\obj\Release\net5.0-windows\Painting_at_ZJU.ThresholdForm.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\Painting at ZJU\obj\Release\net5.0-windows\Painting_at_ZJU.WelcomeForm.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\Painting at ZJU\obj\Release\net5.0-windows\Painting at ZJU.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Painting at ZJU\Painting at ZJU\obj\Release\net5.0-windows\Painting at ZJU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Painting at ZJU\Painting at ZJU\obj\Release\net5.0-windows\Painting at ZJU.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Painting at ZJU\Painting at ZJU\obj\Release\net5.0-windows\Painting at ZJU.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Painting at ZJU\Painting at ZJU\obj\Release\net5.0-windows\Painting at ZJU.csproj.CoreCompileInputs.cache

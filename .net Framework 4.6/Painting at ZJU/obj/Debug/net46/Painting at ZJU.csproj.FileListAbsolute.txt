@@ -1,0 +1,64 @@
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\bin\Debug\net46\Painting at ZJU.exe.config
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\bin\Debug\net46\Painting at ZJU.exe
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\bin\Debug\net46\Painting at ZJU.pdb
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\bin\Debug\net46\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\bin\Debug\net46\SendGrid.dll
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\bin\Debug\net46\StarkbankEcdsa.dll
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\bin\Debug\net46\AForge.dll
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\bin\Debug\net46\AForge.Imaging.dll
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\bin\Debug\net46\AForge.Math.dll
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\bin\Debug\net46\DockingToolbar.dll
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\bin\Debug\net46\SourceGrid2.dll
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\bin\Debug\net46\SourceLibrary.dll
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\bin\Debug\net46\WeifenLuo.WinFormsUI.dll
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\obj\Debug\net46\Painting at ZJU.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.BlurForm.resources
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.BrightnessForm.resources
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.ContrastForm.resources
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.DeveloperForm.resources
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.Histogram.resources
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.ImageDocument.resources
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.MainForm.resources
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.Properties.Resources.resources
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.ResizeForm.resources
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.SharpenForm.resources
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.StatisticsForm.resources
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.ThresholdForm.resources
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.WelcomeForm.resources
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\obj\Debug\net46\Painting at ZJU.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\obj\Debug\net46\Painting at ZJU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\obj\Debug\net46\Painting at ZJU.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\obj\Debug\net46\Painting at ZJU.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\obj\Debug\net46\Painting at ZJU.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\obj\Debug\net46\Painting at ZJU.csproj.CopyComplete
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\obj\Debug\net46\Painting at ZJU.exe
+C:\Users\Administrator\Desktop\1\Painting at ZJU\Painting at ZJU\obj\Debug\net46\Painting at ZJU.pdb
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\bin\Debug\net46\Painting at ZJU.exe.config
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\bin\Debug\net46\Painting at ZJU.exe
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\bin\Debug\net46\Painting at ZJU.pdb
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\bin\Debug\net46\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\bin\Debug\net46\SendGrid.dll
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\bin\Debug\net46\StarkbankEcdsa.dll
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\obj\Debug\net46\Painting at ZJU.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.BlurForm.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.BrightnessForm.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.ContrastForm.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.DeveloperForm.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.Histogram.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.ImageDocument.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.MainForm.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.ResizeForm.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.SharpenForm.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.StatisticsForm.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.ThresholdForm.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.WelcomeForm.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\obj\Debug\net46\Painting at ZJU.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\obj\Debug\net46\Painting at ZJU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\obj\Debug\net46\Painting at ZJU.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\obj\Debug\net46\Painting at ZJU.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\obj\Debug\net46\Painting at ZJU.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\obj\Debug\net46\Painting at ZJU.exe
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\obj\Debug\net46\Painting at ZJU.pdb
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\obj\Debug\net46\Painting_at_ZJU.CropForm.resources
+C:\Users\Administrator\Desktop\Painting at ZJU\.net Framework 4.6\Painting at ZJU\obj\Debug\net46\Painting at ZJU.csproj.CopyComplete

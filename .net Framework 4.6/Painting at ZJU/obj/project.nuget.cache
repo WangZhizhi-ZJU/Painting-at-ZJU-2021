@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "S/H4gucmVeAvwuOE0h8zcGJtDV3n4JfHSX8nGI2Y4F1HOpnyzoPg7za9V/g1m4leV+bGQYvA9x+hDp2r19addw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Painting at ZJU\\.net Framework 4.6\\Painting at ZJU\\Painting at ZJU.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\sendgrid\\9.24.2\\sendgrid.9.24.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\starkbank-ecdsa\\1.3.1\\starkbank-ecdsa.1.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
